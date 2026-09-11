@@ -10,3 +10,6 @@ botao.addEventListener('click', () => {
   const estaEscuro = document.body.classList.contains('tema-escuro');
   botao.textContent = estaEscuro ? 'Ativar tema claro' : 'Ativar tema escuro';
 });
+ </script>
+</body>
+</html>
