@@ -10,5 +10,4 @@
       botao.textContent = estaEscuro ? 'Ativar tema claro' : 'Ativar tema escuro';
     });
   </script>
-</body>
-</html>
+
